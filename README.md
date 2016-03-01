@@ -3,5 +3,3 @@
 [![Stories in QA](https://badge.waffle.io/kellihsf/Test-folder-2.png?label=ready&title=QA)](https://waffle.io/kellihsf/Test-folder-2)
 
 Making changes
-Another change here!
-321
