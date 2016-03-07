@@ -4,4 +4,3 @@
 [![Stories in Ready](https://badge.waffle.io/kellihsf/pumpkinpie.png?label=ready&title=Ready)](https://waffle.io/kellihsf/pumpkinpie)
 
 Making changes
-Another change here!
