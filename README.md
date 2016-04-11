@@ -2,5 +2,5 @@
 [![Stories in Ready](https://badge.waffle.io/kellihsf/Test-folder-2.png?label=ready&title=Ready)](https://waffle.io/kellihsf/Test-folder-2)
 [![Stories in QA](https://badge.waffle.io/kellihsf/Test-folder-2.png?label=ready&title=QA)](https://waffle.io/kellihsf/Test-folder-2)
 [![Stories in Ready](https://badge.waffle.io/kellihsf/pumpkinpie.png?label=ready&title=Ready)](https://waffle.io/kellihsf/pumpkinpie)
-
+[![Stories in In Progress](https://badge.waffle.io/kellihsf/Test-folder-2.png?label=ready&title=In Progress)](https://waffle.io/kellihsf/Test-folder-2)
 Making changes here!
